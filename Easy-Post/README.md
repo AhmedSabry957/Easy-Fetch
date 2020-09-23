@@ -4,7 +4,7 @@
 `Easy wrapper to post to other site(s)`
 
 ```js
-const fetch = require("./index")
+const fetch = require("easy-fetching")
 const start = new fetch({logs: true})
 start.post({
     /*
