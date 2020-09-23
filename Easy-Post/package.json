@@ -1,0 +1,33 @@
+{
+  "name": "easy-fetching",
+  "version": "1.0.1",
+  "description": "The best wrapper to post to simple sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "botlist",
+    "dsc",
+    "top.gg",
+    "bfd",
+    "discord",
+    "discord-boats",
+    "api",
+    "node-fetch",
+    "post",
+    "easy",
+    "fetch",
+    "fetch",
+    "posts",
+    "docs",
+    "botlist",
+    "bots",
+    "lists"
+  ],
+  "author": "Dexter#1337",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
